@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @progprsazzzz
 - 👀 I’m interested in programming and app producing
-- 🌱 I’m currently learning python , html and c++
+- 🌱 I’m currently learning python , html and js
 - 📫 How to reach me : pad.parsa1388@gmail.com and my number : +98 901 610 9372
 
 <!---
